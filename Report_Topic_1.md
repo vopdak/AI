@@ -86,10 +86,10 @@ Dự báo năng suất cho các loại cây trồng tại Hoa Kỳ dựa trên d
 
 ### ▶️ Demo Trên Google Colab:
 
-[Demo - Google Colab](https://colab.research.google.com/drive/1IjK__-x5-q4HHBGEzhPuw-VlEb_VtV3L?usp=sharing)
+[Demo - Google Colab](https://colab.research.google.com/drive/17L4bDPOT4pHmBoerFOLwtvpUIPCzOkRC?usp=sharing)
 
 ### 🔗 Dữ liệu:
 
-[Data - FAOSTAT_Crops_and_Livestock_Products.csv](https://raw.githubusercontent.com/daivph/AI/refs/heads/main/FAOSTAT_Crops_and_Livestock_Products.csv)
+[Data - FAOSTAT_Crops_and_Livestock_Products.csv](https://raw.githubusercontent.com/vopdak/AI/refs/heads/main/FAOSTAT_Crops_and_Livestock_Products.csv)
 
 ---
